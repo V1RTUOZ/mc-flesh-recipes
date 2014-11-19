@@ -1,0 +1,17 @@
+[
+{
+  "modid": "ru.v1rtuoz.fleshrecipes",
+  "name": "Flesh Recipes",
+  "description": "adds some rotten flesh recipes",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["v1rtuoz"],
+  "credits": "The Forge and FML guys, Alex Vasiliev, Anton Baryshev",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [],
+  "requiredMods": [ "Forge" ]
+}
+]
